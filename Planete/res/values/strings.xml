@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Planete</string>
+    <string name="action_settings">Ukloni Sve</string>
+    <string name="slowDown">Uspori sistem</string>
+    <string name="speedUp">Ubrzaj sistem</string>
+    
+
+</resources>
