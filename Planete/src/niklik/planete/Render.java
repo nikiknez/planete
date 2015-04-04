@@ -174,7 +174,7 @@ public class Render extends Thread {
 			float vx = (x - x0) / dt * 40;
 			float vy = (y - y0) / dt * 40;
 			Vektor b = new Vektor(vx, vy);
-			b = novaPlaneta.getPravac().mnozi(40.0f / dt);
+			//b = novaPlaneta.getPravac().mnozi(40.0f / dt);
 			float scale = minBitmapSize + dt / 500
 					* (maxBitmapSize - minBitmapSize);
 			novaPlaneta = new Planeta(novaPlaneta.masa(),
